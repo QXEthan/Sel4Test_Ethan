@@ -1,0 +1,98 @@
+{
+  "core.repositoryformatversion": [
+    "1"
+  ],
+  "core.filemode": [
+    "true"
+  ],
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ],
+  "filter.lfs.process": [
+    "git-lfs filter-process --skip"
+  ],
+  "remote.origin.url": [
+    "https://github.com/seL4/sel4test-manifest.git"
+  ],
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ],
+  "manifest.platform": [
+    "auto"
+  ],
+  "extensions.preciousobjects": [
+    "true"
+  ],
+  "branch.default.remote": [
+    "origin"
+  ],
+  "branch.default.merge": [
+    "refs/heads/master"
+  ],
+  "repo.existingprojectcount": [
+    "10"
+  ],
+  "repo.newprojectcount": [
+    "0"
+  ],
+  "repo.syncstate.main.synctime": [
+    "2025-02-28T00:04:54.631989+00:00"
+  ],
+  "repo.syncstate.main.version": [
+    "1"
+  ],
+  "repo.syncstate.sys.argv": [
+    "['/home/ethan/sel4test_ethan/.repo/repo/main.py', '--repo-dir=/home/ethan/sel4test_ethan/.repo', '--wrapper-version=2.36', '--wrapper-path=/usr/bin/repo', '--', 'sync']"
+  ],
+  "repo.syncstate.options.jobs": [
+    "8"
+  ],
+  "repo.syncstate.options.outermanifest": [
+    "true"
+  ],
+  "repo.syncstate.options.jobsnetwork": [
+    "1"
+  ],
+  "repo.syncstate.options.jobscheckout": [
+    "8"
+  ],
+  "repo.syncstate.options.mpupdate": [
+    "true"
+  ],
+  "repo.syncstate.options.clonebundle": [
+    "true"
+  ],
+  "repo.syncstate.options.retryfetches": [
+    "0"
+  ],
+  "repo.syncstate.options.prune": [
+    "true"
+  ],
+  "repo.syncstate.options.repoverify": [
+    "true"
+  ],
+  "repo.syncstate.options.quiet": [
+    "false"
+  ],
+  "repo.syncstate.options.verbose": [
+    "false"
+  ],
+  "repo.syncstate.remote.origin.url": [
+    "https://github.com/seL4/sel4test-manifest.git"
+  ],
+  "repo.syncstate.remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ],
+  "repo.syncstate.branch.default.remote": [
+    "origin"
+  ],
+  "repo.syncstate.branch.default.merge": [
+    "refs/heads/master"
+  ],
+  "repo.syncstate.repo.existingprojectcount": [
+    "10"
+  ],
+  "repo.syncstate.repo.newprojectcount": [
+    "0"
+  ]
+}

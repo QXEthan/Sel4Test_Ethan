@@ -1,0 +1,5 @@
+{
+    "TESTPRINTER_REGEX": "\"THREADS0004\"",
+    "TESTPRINTER_HALT_ON_TEST_FAILURE": false,
+    "PRINT_XML": false
+}

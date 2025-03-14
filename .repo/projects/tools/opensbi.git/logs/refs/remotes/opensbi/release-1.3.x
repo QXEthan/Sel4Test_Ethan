@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 057eb10b6d523540012e6947d5c9f63e95244e94 Ethan_Ubuntu <xuqi2021@outlook.com> 1740701038 -0800	fetch --quiet --progress opensbi --prune --recurse-submodules=no --tags +refs/heads/*:refs/remotes/opensbi/* +refs/tags/v0.9:refs/tags/v0.9 +refs/tags/*:refs/tags/*: storing head

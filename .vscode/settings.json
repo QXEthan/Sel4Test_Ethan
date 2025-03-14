@@ -1,0 +1,17 @@
+{
+    "cmake.sourceDirectory": "/home/ethan/sel4test_ethan/kernel/libsel4",
+    "files.associations": {
+        "autoconf.h": "c",
+        "gen_config.h": "c",
+        "helpers.h": "c",
+        "parent.h": "c",
+        "virtio.h": "c",
+        "virtio_queue.h": "c",
+        "queue.h": "c",
+        "ialloc.h": "c",
+        "util.h": "c",
+        "bootstrap.h": "c",
+        "client.h": "c",
+        "timer.h": "c"
+    }
+}

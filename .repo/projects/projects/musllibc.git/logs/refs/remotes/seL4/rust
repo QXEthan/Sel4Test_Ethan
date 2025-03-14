@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 16e29fd11d8c797c576c27ff1d92b4cc655aca3b Ethan_Ubuntu <xuqi2021@outlook.com> 1740701087 -0800	fetch --quiet --progress seL4 --prune --recurse-submodules=no --tags +refs/heads/*:refs/remotes/seL4/* +refs/heads/sel4:refs/remotes/seL4/sel4 +refs/tags/*:refs/tags/*: storing head

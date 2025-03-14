@@ -1,0 +1,5 @@
+{
+    "HAVE_TIMER": true,
+    "SIMULATION": true,
+    "HAVE_CACHE": false
+}
