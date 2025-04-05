@@ -1,0 +1,5 @@
+HAVE_TIMER: false
+SIMULATION: true # Sel4testSimulation=ON
+HAVE_CACHE: false
+VMM_PLATSUPPORT_VESA_FRAMEBUFFER: true # LibSel4VMMPlatsupportVESAFrameBuffer=ON
+VMM_USE_HPET: false

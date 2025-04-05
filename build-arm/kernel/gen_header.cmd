@@ -1,0 +1,1 @@
+regen /home/ethan/sel4test_ethan/build-arm/kernel/gen_headers/plat/machine/devices_gen.h /home/ethan/sel4test_ethan/build-arm/kernel/kernel.dtb;/home/ethan/sel4test_ethan/kernel/tools/hardware.yml;/home/ethan/sel4test_ethan/kernel/tools/hardware_schema.yml;/home/ethan/sel4test_ethan/kernel/tools/hardware_gen.py

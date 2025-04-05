@@ -1,0 +1,1 @@
+regen /home/ethan/sel4test_ethan/build-arm/kernel/kernel.dtb /home/ethan/sel4test_ethan/build-arm/qemu-arm-virt.dts;/home/ethan/sel4test_ethan/kernel/src/plat/qemu-arm-virt/overlay-qemu-arm-virt.dts

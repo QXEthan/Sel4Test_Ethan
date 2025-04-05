@@ -1,0 +1,1 @@
+--srcdir=/home/ethan/sel4test_ethan/projects/musllibc --prefix=/home/ethan/sel4test_ethan/build-arm/apps/sel4test-driver/musllibc/build-temp/stage  --target=aarch64 --enable-warnings --disable-shared --enable-static

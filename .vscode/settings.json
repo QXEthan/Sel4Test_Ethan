@@ -12,6 +12,20 @@
         "util.h": "c",
         "bootstrap.h": "c",
         "client.h": "c",
-        "timer.h": "c"
+        "timer.h": "c",
+        "allocman.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "vka.h": "c",
+        "simple-default.h": "c",
+        "test.h": "c",
+        "*.tcc": "c",
+        "ostream": "c",
+        "algorithm": "c",
+        "stringify.h": "c",
+        "devices_gen.h": "c",
+        "types.h": "c",
+        "typeinfo": "c"
     }
 }

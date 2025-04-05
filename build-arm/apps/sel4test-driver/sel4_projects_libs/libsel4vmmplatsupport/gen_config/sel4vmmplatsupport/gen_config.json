@@ -1,0 +1,7 @@
+{
+    "HAVE_TIMER": false,
+    "SIMULATION": true,
+    "HAVE_CACHE": false,
+    "VMM_PLATSUPPORT_VESA_FRAMEBUFFER": true,
+    "VMM_USE_HPET": false
+}
