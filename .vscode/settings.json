@@ -26,6 +26,9 @@
         "stringify.h": "c",
         "devices_gen.h": "c",
         "types.h": "c",
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "simple.h": "c",
+        "compare": "cpp",
+        "cstdint": "cpp"
     }
 }

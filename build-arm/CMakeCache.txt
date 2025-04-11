@@ -1924,6 +1924,8 @@ LibSel4TestPrintXML-ADVANCED:INTERNAL=1
 LibSel4TestPrinterHaltOnTestFailure-ADVANCED:INTERNAL=0
 //ADVANCED property for variable: LibSel4TestPrinterRegex
 LibSel4TestPrinterRegex-ADVANCED:INTERNAL=0
+//MODIFIED property for variable: LibSel4TestPrinterRegex
+LibSel4TestPrinterRegex-MODIFIED:INTERNAL=ON
 //ADVANCED property for variable: LibSel4UtilsCSpaceSizeBits
 LibSel4UtilsCSpaceSizeBits-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: LibSel4UtilsProfile
